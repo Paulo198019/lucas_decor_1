@@ -1,9 +1,0 @@
-body{margin:0;font-family:Arial;background:#f4f1eb;}
-.hero{height:100vh;background:url('../img/banner-final.png') center/cover no-repeat;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;}
-.hero-box{background:rgba(255,255,255,0.6);padding:40px 60px;border-radius:20px;backdrop-filter:blur(6px);} 
-.hero h1{font-size:3rem;margin-bottom:15px;color:#614a33;} 
-.hero p{font-size:1.3rem;margin-bottom:25px;color:#6d5a45;} 
-.cta{background:#C2A27A;padding:15px 35px;border-radius:10px;color:white;text-decoration:none;font-size:1.2rem;} 
-.cta-final{text-align:center;padding:80px 20px;background:#fff;} 
-.cta-final h2{font-size:2.4rem;color:#614a33;} 
-.cta-final p{font-size:1.2rem;margin-bottom:20px;} 
